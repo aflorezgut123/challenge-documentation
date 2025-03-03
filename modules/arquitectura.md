@@ -20,7 +20,8 @@ El frontend del proyecto está desarrollado utilizando **Angular**, un framework
 
 El proyecto está preparado para ser desplegado en la nube utilizando **Amazon Web Services (AWS)**. Algunas de las tecnologías y servicios de AWS que se pueden utilizar incluyen:
 
-- **Elastic Beanstalk (EBS)**: Para el despliegue y gestión de aplicaciones web y back.
+- **Elastic Beanstalk (EKS)**: Para el despliegue, gestión Y contenerización de aplicaciones web y back.
+- **Elastic Beanstalk (ECS)**: Para el despliegue, gestión Y contenerización de aplicaciones web y back.
 - **Relational Database Service (RDS)**: Para la gestión de bases de datos relacionales.
 ![text](/resources/rds.jpg)
 
